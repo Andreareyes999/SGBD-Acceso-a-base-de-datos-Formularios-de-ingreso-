@@ -1,0 +1,25 @@
+C:\Users\EddBitx\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\EddBitx\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\EddBitx\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\EddBitx\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\EddBitx\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\EddBitx\source\repos\Proyecto\Proyecto\bin\Debug\formulario_de_ingreso.accdb
+C:\Users\EddBitx\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\EddBitx\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\EddBitx\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\EddBitx\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\EddBitx\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\EddBitx\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.sistema.resources
+C:\Users\joser\Desktop\formulario de ingreso\Proyecto\Proyecto\bin\Debug\formulario_de_ingreso.accdb
+C:\Users\joser\Desktop\formulario de ingreso\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\joser\Desktop\formulario de ingreso\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\joser\Desktop\formulario de ingreso\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\joser\Desktop\formulario de ingreso\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\joser\Desktop\formulario de ingreso\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\joser\Desktop\formulario de ingreso\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\joser\Desktop\formulario de ingreso\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\joser\Desktop\formulario de ingreso\Proyecto\Proyecto\obj\Debug\Proyecto.sistema.resources
+C:\Users\joser\Desktop\formulario de ingreso\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\joser\Desktop\formulario de ingreso\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\joser\Desktop\formulario de ingreso\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\joser\Desktop\formulario de ingreso\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
